@@ -34,44 +34,10 @@ export const tcgs = [
     slug: "flesh-and-blood",
     logo: "https://fabtcg.com/static/images/logo.png",
   },
+
   {
-    name: "Digimon Card Game",
-    slug: "digimon",
-    logo: "https://world.digimoncard.com/images/common/logo.png",
-  },
-  {
-    name: "Dragon Ball Super Card Game Fusion World",
-    slug: "dragon-ball-fusion-world",
-    logo: "https://www.dbs-cardgame.com/fw/images/common/logo.png",
-  },
-  {
-    name: "Altered",
-    slug: "altered",
-    logo: "https://www.altered.gg/images/logo.svg",
-  },
-  {
-    name: "Grand Archive TCG",
-    slug: "grand-archive",
-    logo: "https://grandarchivetcg.com/cdn/shop/files/logo.png",
-  },
-  {
-    name: "Union Arena",
-    slug: "union-arena",
-    logo: "https://www.unionarena-tcg.com/images/common/logo.png",
-  },
-  {
-    name: "Gundam Card Game",
-    slug: "gundam-card-game",
-    logo: "https://www.gundam-gcg.com/images/common/logo.png",
-  },
-  {
-    name: "Shadowverse: Evolve",
-    slug: "shadowverse-evolve",
-    logo: "https://en.shadowverse-evolve.com/images/common/logo.png",
-  },
-  {
-    name: "Weiß Schwarz",
-    slug: "weiss-schwarz",
+    name: "Riftbound",
+    slug: "Riftbound",
     logo: "https://en.ws-tcg.com/wp/wp-content/themes/ws/images/logo.png",
   },
 ];
